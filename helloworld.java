@@ -1,6 +1,6 @@
 class Simple{  
     public static void main(String args[]){  
-     System.out.println("Hello batch37 team with Naveen, Amit , itio");
-      System.out.println("Hello Batch batch38 WITH FOR STUDENTS RUNNING in front of me and sumit in making CI automated vikas teach devops CI proecss");
+     System.out.println("Hello Jinixa team with Boo, Ivor, Amit, Nay, Jdawg, Dony, Xoxo.");
+      System.out.println("Hello Squad Jinixa8, we are GoD-fearing Powerful and beautiful famiglia.");
     }  
 } 
